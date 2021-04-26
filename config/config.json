@@ -1,7 +1,7 @@
 {
   "development": {
-    "database": "task-list",
-    "storage": "task-list.db",
+    "database": "task-101",
+    "host": "task-101.db",
     "dialect": "sqlite"
   },
   "test": {
